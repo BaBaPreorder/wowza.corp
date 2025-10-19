@@ -36,7 +36,7 @@ impl Config {
         Config {
             api_url: "https://api.company.internal".to_string(),
             username: "admin@wowza.corp".to_string(),
-            password: "STDIO2025_21{29d62e37210105f64b3101e8e724b51e}".to_string(),  
+            password: "**REACTED**".to_string(),  
             timeout_secs: 30,
         }
     }
