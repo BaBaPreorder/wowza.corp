@@ -41,3 +41,8 @@ impl Config {
         }
     }
 }
+
+API_URL=https://api.company.internal
+API_USERNAME=your_username_here
+API_PASSWORD=your_password_here
+API_TIMEOUT=30
