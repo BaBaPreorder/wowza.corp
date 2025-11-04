@@ -11,6 +11,8 @@ Install Rust: https://rustup.rs/
 
 ## Build & Run
 
+```cargo run```
+
 
 ## Authentication
 
